@@ -81,7 +81,7 @@ def main():
 
     text_input = st.text_area(
         "Enter your text:",
-        "Hello, world! This is a test of the tokenizer visualization.",
+        "",
         key="text_input"
     )
 
